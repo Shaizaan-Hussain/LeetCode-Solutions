@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -89,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
