@@ -1,23 +1,21 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
         for (int i = 0; i < 9; i++) {
-            boolean[] rowCheck = new boolean[9];
-            boolean[] colCheck = new boolean[9];
-            boolean[] boxCheck = new boolean[9];
+            int rowMask = 0, colMask = 0, boxMask = 0;
             
             for (int j = 0; j < 9; j++) {
                 // Check row
                 if (board[i][j] != '.') {
                     int num = board[i][j] - '1';
-                    if (rowCheck[num]) return false;
-                    rowCheck[num] = true;
+                    if ((rowMask & (1 << num)) != 0) return false;
+                    rowMask |= (1 << num);
                 }
                 
                 // Check column
                 if (board[j][i] != '.') {
                     int num = board[j][i] - '1';
-                    if (colCheck[num]) return false;
-                    colCheck[num] = true;
+                    if ((colMask & (1 << num)) != 0) return false;
+                    colMask |= (1 << num);
                 }
                 
                 // Check 3x3 sub-box
@@ -25,8 +23,8 @@ class Solution {
                 int colIndex = 3 * (i % 3) + j % 3;
                 if (board[rowIndex][colIndex] != '.') {
                     int num = board[rowIndex][colIndex] - '1';
-                    if (boxCheck[num]) return false;
-                    boxCheck[num] = true;
+                    if ((boxMask & (1 << num)) != 0) return false;
+                    boxMask |= (1 << num);
                 }
             }
         }
