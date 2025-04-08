@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0205-isomorphic-strings) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0139-word-break) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2526-longest-increasing-subsequence-ii) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0205-isomorphic-strings) |
 | [0768-partition-labels](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0768-partition-labels) |
 | [1078-remove-outermost-parentheses](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0139-word-break) |
 ## Topological Sort
 |  |
 | ------- |
@@ -312,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2526-longest-increasing-subsequence-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
