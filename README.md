@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1656-count-good-triplets](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1656-count-good-triplets) |
 | [1829-maximum-units-on-a-truck](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -367,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0595-big-countries](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0595-big-countries) |
 | [1827-invalid-tweets](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
