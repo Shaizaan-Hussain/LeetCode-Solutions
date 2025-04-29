@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3430-count-days-without-meetings) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
