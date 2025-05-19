@@ -1,11 +1,25 @@
+import java.util.Arrays;
+
 class Solution {
     public String triangleType(int[] nums) {
         Arrays.sort(nums);
-        int i = 0;
-        if(nums[i]+nums[i+1] <= nums[i+2]) return "none";
-        else if(nums[i] == nums[i+1] && nums[i+1] == nums[i+2]) return "equilateral";
-        else if(nums[i] == nums[i+1] || nums[i+1] == nums[i+2] || nums[i] == nums[i+2]) return "isosceles";
-        else 
+        
+        // Check for valid triangle
+        if (nums[0] + nums[1] <= nums[2]) {
+            return "none";
+        }
+        
+        // All sides equal
+        if (nums[0] == nums[1] && nums[1] == nums[2]) {
+            return "equilateral";
+        }
+        
+        // Two sides equal
+        if (nums[0] == nums[1] || nums[1] == nums[2] || nums[0] == nums[2]) {
+            return "isosceles";
+        }
+
+        // All sides different
         return "scalene";
     }
 }
