@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2681-put-marbles-in-bags](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2681-put-marbles-in-bags) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/1656-count-good-triplets) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -476,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
