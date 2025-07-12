@@ -4,4 +4,4 @@ product_name,
 year,
 price
 From Sales
-Left Join Product on Sales.product_id = Product.product_id;
+Join Product on Sales.product_id = Product.product_id;
