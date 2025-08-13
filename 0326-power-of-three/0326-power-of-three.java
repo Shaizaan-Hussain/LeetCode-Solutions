@@ -1,6 +1,8 @@
-class Solution {
+
+public class Solution {
     public boolean isPowerOfThree(int n) {
-       int maxPowerOf3 = 1162261467; // 3^19 is the largest power of 3 in int range
-        return n > 0 && maxPowerOf3 % n == 0;
+        if (n == 1) return true;
+        if (n <= 0 || n % 3 != 0) return false;
+        return isPowerOfThree(n / 3);
     }
 }
