@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
