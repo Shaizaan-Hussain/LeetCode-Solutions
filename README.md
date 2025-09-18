@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2681-put-marbles-in-bags](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3647-zero-array-transformation-iii](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/0218-the-skyline-problem) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3678-design-task-manager](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Queue
 |  |
@@ -592,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3462-vowels-game-in-a-string) |
+## Design
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/Shaizaan-Hussain/https-github.com-Shaizaan-Hussain-LeetCode--Solutions/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
