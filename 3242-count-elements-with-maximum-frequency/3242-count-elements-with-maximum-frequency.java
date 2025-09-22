@@ -1,14 +1,28 @@
 class Solution {
     public int maxFrequencyElements(int[] nums) {
-        byte[] freq = new byte[101];
-        byte max = 0, res = 0;
-        for (int n : nums) {
-            byte f = ++freq[n];
-            if (f > max) {
-                max = f; res = f;
-            } else if (f == max) 
-                res += f;
+        int max = Integer.MIN_VALUE;
+        for(int i = 0;i<nums.length;i++){
+            if(nums[i] > max){
+                max = nums[i];
+            }
         }
-        return res;
+        int arr[] = new int[max+1];
+        for(int i = 0;i<nums.length;i++){
+            arr[nums[i]] += 1;
+        }
+       Arrays.sort(arr);
+        int maxFreq = arr[arr.length - 1]; // highest frequency
+        int frequency = 0;
+
+        // count total occurrences of elements having maxFreq
+        for (int i = arr.length - 1; i >= 0; i--) {
+            if (arr[i] == maxFreq) {
+                frequency += arr[i];
+            } else {
+                break; // because array is sorted
+            }
+        }
+        return frequency;
+        
     }
 }
