@@ -1,29 +1,38 @@
 class Solution {
-    public int search(int[] nums, int target) {
-        int low = 0, high = nums.length - 1;
-
-        while (low <= high) {
-            int mid = (low + high) / 2;
-
-            if (nums[mid] == target) {
-                return mid;
+    private int search(int arr[], int tar, int si, int ei){
+       if (si > ei) {
+            return -1;
+        }
+        // kaam
+        int mid = si + (ei - si) / 2;
+        // check on mid
+        if (arr[mid] == tar) {
+            return mid;
+        }
+        // check on line L1
+        if (arr[si] <= arr[mid]) {
+            // left side
+            if (arr[si] <= tar && tar <= arr[mid]) {
+                return search(arr, tar, si, mid - 1);
             }
-
-            if (nums[low] <= nums[mid]) {
-                if (nums[low] <= target && target < nums[mid]) {
-                    high = mid - 1;
-                } else {
-                    low = mid + 1;
-                }
-            } else {
-                if (nums[mid] < target && target <= nums[high]) {
-                    low = mid + 1;
-                } else {
-                    high = mid - 1;
-                }
+            // right side
+            else {
+                return search(arr, tar, mid + 1, ei);
             }
         }
-
-        return -1;
+        // lies on L2
+        else {
+            // right side
+            if (arr[mid] <= tar && tar <= arr[ei]) {
+                return search(arr, tar, mid + 1, ei);
+            }
+            // left side
+            else {
+                return search(arr, tar, si, mid - 1);
+            }
+        }
+    }
+    public int search(int[] arr, int target) {
+       return search(arr, target,0,arr.length-1);
     }
 }
